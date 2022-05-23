@@ -40,3 +40,5 @@ const pintarCarrito = () => {
 };
 
 btnesBotones.forEach((btn) => btn.addEventListener("click", agragarAlCarrito));
+
+

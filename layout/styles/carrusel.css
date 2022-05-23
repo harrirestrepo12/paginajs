@@ -124,7 +124,7 @@ header nav a.activo {
 
 .contenedor-titulo-controles .indicadores button:hover,
 .contenedor-titulo-controles .indicadores button.activo {
-	background: red;
+	background: #0AC6FC;
 }
 
 
